@@ -1,0 +1,932 @@
+[
+  {
+    "name": "Bakery Gateau",
+    "address": "865 York Mills Road, Unit 1",
+    "postal_code": "M3B 1Y6",
+    "latitude": 43.754093100000006,
+    "longitude": -79.3495479,
+    "stars_x": 4.5,
+    "review_count": 8,
+    "categories": "Bakeries, Food"
+  },
+  {
+    "name": "Burrito Bandidos",
+    "address": "1614 Queen Street E",
+    "postal_code": "M4L 1G4",
+    "latitude": 43.666181200000004,
+    "longitude": -79.3164682,
+    "stars_x": 3.5,
+    "review_count": 43,
+    "categories": "Tex-Mex, Mexican, Restaurants"
+  },
+  {
+    "name": "Caffeine",
+    "address": "1448 Lawrence Avenue E",
+    "postal_code": "M4A 2S6",
+    "latitude": 43.742554999999996,
+    "longitude": -79.314252,
+    "stars_x": 4.5,
+    "review_count": 30,
+    "categories": "Restaurants, Breakfast & Brunch, Sandwiches, Food, Coffee & Tea"
+  },
+  {
+    "name": "La Barista Café",
+    "address": "22 St Clair Avenue E",
+    "postal_code": "M4T",
+    "latitude": 43.688486,
+    "longitude": -79.393215,
+    "stars_x": 3,
+    "review_count": 4,
+    "categories": "Food, Bakeries, Coffee & Tea"
+  },
+  {
+    "name": "Bread & Roses Bakery Cafe",
+    "address": "2901 Bayview Avenue",
+    "postal_code": "M2K 2S3",
+    "latitude": 43.7690784933,
+    "longitude": -79.3854800239,
+    "stars_x": 3,
+    "review_count": 23,
+    "categories": "Food, Coffee & Tea, Bakeries, Restaurants, Cafes"
+  },
+  {
+    "name": "OK OK Diner",
+    "address": "1128 Queen Street E",
+    "postal_code": "M4M 1K8",
+    "latitude": 43.6623207,
+    "longitude": -79.3351048,
+    "stars_x": 3,
+    "review_count": 62,
+    "categories": "Restaurants, Breakfast & Brunch, Diners"
+  },
+  {
+    "name": "Brockton Haunt",
+    "address": "1150 College Street",
+    "postal_code": "M6H 1B6",
+    "latitude": 43.652360563,
+    "longitude": -79.4339237061,
+    "stars_x": 4,
+    "review_count": 25,
+    "categories": "Juice Bars & Smoothies, Restaurants, Sandwiches, Food, Cafes, Coffee & Tea"
+  },
+  {
+    "name": "Nutrition House",
+    "address": "120 Lynn Williams Street",
+    "postal_code": "M6K 3N6",
+    "latitude": 43.639060799999996,
+    "longitude": -79.4177271,
+    "stars_x": 3.5,
+    "review_count": 3,
+    "categories": "Food, Specialty Food, Health Markets"
+  },
+  {
+    "name": "Kimchi House",
+    "address": "586 Bloor St W",
+    "postal_code": "M6G 1K4",
+    "latitude": 43.66495820000001,
+    "longitude": -79.4127496,
+    "stars_x": 4,
+    "review_count": 36,
+    "categories": "Restaurants, Korean"
+  },
+  {
+    "name": "Brass Taps Pizza Pub",
+    "address": "934 College St",
+    "postal_code": "M6H 1A4",
+    "latitude": 43.6537865,
+    "longitude": -79.4261354,
+    "stars_x": 3.5,
+    "review_count": 34,
+    "categories": "Pizza, Nightlife, Restaurants, Pubs, Bars"
+  },
+  {
+    "name": "Hogtown Pub & Oysters",
+    "address": "633 College Street W",
+    "postal_code": "M6G 3A7",
+    "latitude": 43.6548045,
+    "longitude": -79.41499350000001,
+    "stars_x": 4,
+    "review_count": 50,
+    "categories": "Restaurants, Bars, Seafood, Nightlife, Pubs"
+  },
+  {
+    "name": "Cusina Lounge",
+    "address": "288 Wilson Avenue",
+    "postal_code": "M3H 1S8",
+    "latitude": 43.7372891748,
+    "longitude": -79.4349258766,
+    "stars_x": 2,
+    "review_count": 24,
+    "categories": "Barbeque, Filipino, Buffets, Fish & Chips, Restaurants"
+  },
+  {
+    "name": "Le Gourmand",
+    "address": "152 Spadina Avenue",
+    "postal_code": "M5V 3S6",
+    "latitude": 43.6481229,
+    "longitude": -79.39664090000001,
+    "stars_x": 4,
+    "review_count": 214,
+    "categories": "Restaurants, Desserts, Sandwiches, Cafes, French, Coffee & Tea, Food, Breakfast & Brunch"
+  },
+  {
+    "name": "Jules Cafe Patisserie",
+    "address": "617 Mount Pleasant Road",
+    "postal_code": "M4S 2M5",
+    "latitude": 43.7041655,
+    "longitude": -79.3882122,
+    "stars_x": 3.5,
+    "review_count": 44,
+    "categories": "Bakeries, Food, Mediterranean, French, Restaurants"
+  },
+  {
+    "name": "T&T Roti Trinidad & Toronto Roti",
+    "address": "Market 707",
+    "postal_code": "",
+    "latitude": 43.652196136499995,
+    "longitude": -79.4055628113,
+    "stars_x": 4,
+    "review_count": 9,
+    "categories": "Caribbean, Restaurants"
+  },
+  {
+    "name": "O.Noir",
+    "address": "620 Church St",
+    "postal_code": "M4Y 2G2",
+    "latitude": 43.6691213,
+    "longitude": -79.382764,
+    "stars_x": 3.5,
+    "review_count": 301,
+    "categories": "Canadian (New), American (New), Restaurants"
+  },
+  {
+    "name": "Hong Kong Bistro Cafe",
+    "address": "472 Dundas Street W",
+    "postal_code": "M5T 1G8",
+    "latitude": 43.65344520000001,
+    "longitude": -79.3968608,
+    "stars_x": 4,
+    "review_count": 87,
+    "categories": "Cafes, Chinese, Restaurants"
+  },
+  {
+    "name": "Roselle",
+    "address": "362 King Street E",
+    "postal_code": "M5A 1K9",
+    "latitude": 43.6535432,
+    "longitude": -79.3620478,
+    "stars_x": 4.5,
+    "review_count": 171,
+    "categories": "Food, Coffee & Tea, Bakeries, Ice Cream & Frozen Yogurt, Specialty Food"
+  },
+  {
+    "name": "The Pickle Barrel",
+    "address": "1 Yorkdale Road",
+    "postal_code": "M6A 2T9",
+    "latitude": 43.724688799999996,
+    "longitude": -79.4538904,
+    "stars_x": 2.5,
+    "review_count": 170,
+    "categories": "Restaurants, Cocktail Bars, Canadian (New), Bars, Nightlife, Diners"
+  },
+  {
+    "name": "Si Lom Thai Bistro",
+    "address": "534 Church Street",
+    "postal_code": "M4Y",
+    "latitude": 43.6650073,
+    "longitude": -79.38081109999999,
+    "stars_x": 4,
+    "review_count": 106,
+    "categories": "Thai, Restaurants, Vegan"
+  },
+  {
+    "name": "JJ Bean",
+    "address": "130 Adelaide Street W",
+    "postal_code": "M5H",
+    "latitude": 43.6496512778,
+    "longitude": -79.38361304930001,
+    "stars_x": 4,
+    "review_count": 18,
+    "categories": "Coffee & Tea, Coffee Roasteries, Food, Bakeries"
+  },
+  {
+    "name": "Pho Vietnam",
+    "address": "1280 Kennedy Rd",
+    "postal_code": "M1P",
+    "latitude": 43.7577305,
+    "longitude": -79.2786325,
+    "stars_x": 3,
+    "review_count": 91,
+    "categories": "Restaurants, Vietnamese"
+  },
+  {
+    "name": "The Beech Tree",
+    "address": "924 Kingston Road",
+    "postal_code": "M4E 1S5",
+    "latitude": 43.680387100000004,
+    "longitude": -79.2888628,
+    "stars_x": 4,
+    "review_count": 46,
+    "categories": "Bars, British, Nightlife, Wine Bars, Restaurants"
+  },
+  {
+    "name": "Milestones Restaurants",
+    "address": "300 Borough Dr",
+    "postal_code": "M1P 4P5",
+    "latitude": 43.7767555,
+    "longitude": -79.25900809999999,
+    "stars_x": 3,
+    "review_count": 71,
+    "categories": "Restaurants, Nightlife, Bars, American (Traditional), Comfort Food, Canadian (New)"
+  },
+  {
+    "name": "Bulldog Coffee",
+    "address": "111 Richmond Street W",
+    "postal_code": "M5H 3K6",
+    "latitude": 43.65035220000001,
+    "longitude": -79.38379509999999,
+    "stars_x": 4.5,
+    "review_count": 25,
+    "categories": "Restaurants, Shopping, Cafes, Public Markets, Coffee & Tea, Food"
+  },
+  {
+    "name": "The 3 Brewers",
+    "address": "275 Yonge St",
+    "postal_code": "M5B 1N8",
+    "latitude": 43.6555236,
+    "longitude": -79.38022240000001,
+    "stars_x": 3,
+    "review_count": 256,
+    "categories": "Breweries, Bars, Pubs, Food, Restaurants, Gastropubs, Burgers, Nightlife"
+  },
+  {
+    "name": "Odd Seoul",
+    "address": "90 Ossington Avenue",
+    "postal_code": "M6J 2Y7",
+    "latitude": 43.646190000000004,
+    "longitude": -79.419686,
+    "stars_x": 4,
+    "review_count": 267,
+    "categories": "Bars, Dive Bars, Korean, Restaurants, Asian Fusion, Nightlife"
+  },
+  {
+    "name": "Herbs & Nutrition",
+    "address": "572 Bloor Street W",
+    "postal_code": "M6G 1K1",
+    "latitude": 43.6652391,
+    "longitude": -79.4120309,
+    "stars_x": 4.5,
+    "review_count": 32,
+    "categories": "Health Markets, Specialty Food, Food, Grocery"
+  },
+  {
+    "name": "The Poet Cafe",
+    "address": "173 King Street E",
+    "postal_code": "M5A 1J4",
+    "latitude": 43.650404200000004,
+    "longitude": -79.3711469,
+    "stars_x": 4,
+    "review_count": 30,
+    "categories": "Food, Restaurants, Tapas/Small Plates, Coffee & Tea, Cafes"
+  },
+  {
+    "name": "Fusaro's Kitchen",
+    "address": "147 Spadina Avenue",
+    "postal_code": "M5V 2L7",
+    "latitude": 43.6481372,
+    "longitude": -79.3956847,
+    "stars_x": 4,
+    "review_count": 120,
+    "categories": "Italian, Pizza, Restaurants"
+  },
+  {
+    "name": "Buddha Pie",
+    "address": "514B Annette Street",
+    "postal_code": "M6P 1S3",
+    "latitude": 43.6602773,
+    "longitude": -79.4797994,
+    "stars_x": 3.5,
+    "review_count": 45,
+    "categories": "Pizza, Restaurants, Sandwiches, Coffee & Tea, Food"
+  },
+  {
+    "name": "CoCo Fresh Tea & Juice",
+    "address": "3300 Midland Avenue, UNIT 36",
+    "postal_code": "M1V 4A1",
+    "latitude": 43.8067504,
+    "longitude": -79.28885809999998,
+    "stars_x": 3.5,
+    "review_count": 87,
+    "categories": "Coffee & Tea, Food, Juice Bars & Smoothies"
+  },
+  {
+    "name": "Annona Resturant",
+    "address": "Park Hyatt Hotel, 4 Avenue Road",
+    "postal_code": "M5R 2E8",
+    "latitude": 43.669154,
+    "longitude": -79.394715,
+    "stars_x": 3.5,
+    "review_count": 69,
+    "categories": "American (New), Canadian (New), Restaurants"
+  },
+  {
+    "name": "GB Hand-pulled Noodles",
+    "address": "66 Edward Street",
+    "postal_code": "M5G 1C9",
+    "latitude": 43.656754799999995,
+    "longitude": -79.3837248,
+    "stars_x": 4,
+    "review_count": 421,
+    "categories": "Chinese, Restaurants, Noodles"
+  },
+  {
+    "name": "Xawaash",
+    "address": "130 Queens Plate Drive, Unit 1",
+    "postal_code": "M9W",
+    "latitude": 43.715314500000005,
+    "longitude": -79.5928985,
+    "stars_x": 4,
+    "review_count": 105,
+    "categories": "Event Planning & Services, Caterers, Specialty Food, Restaurants, Halal, Internet Cafes, Mediterranean, Middle Eastern, African, Food"
+  },
+  {
+    "name": "AAA Bar",
+    "address": "598 Gerrard Street E",
+    "postal_code": "M4M 1Y3",
+    "latitude": 43.6658422,
+    "longitude": -79.3519276,
+    "stars_x": 3,
+    "review_count": 11,
+    "categories": "Restaurants, Nightlife, Bars, Barbeque"
+  },
+  {
+    "name": "Buca Yorkville",
+    "address": "53 Scollard Street",
+    "postal_code": "M5R 0A1",
+    "latitude": 43.6721423,
+    "longitude": -79.3893921,
+    "stars_x": 3.5,
+    "review_count": 158,
+    "categories": "Seafood, Breakfast & Brunch, Italian, Restaurants"
+  },
+  {
+    "name": "Chino Locos Original",
+    "address": "4 Greenwood Avenue",
+    "postal_code": "M4L 2P4",
+    "latitude": 43.6644821,
+    "longitude": -79.3255005,
+    "stars_x": 4,
+    "review_count": 171,
+    "categories": "Asian Fusion, Vegetarian, Vegan, Mexican, Restaurants"
+  },
+  {
+    "name": "Wild Wing",
+    "address": "1571 Sandhurst Circle",
+    "postal_code": "M1V 1V2",
+    "latitude": 43.809254700000004,
+    "longitude": -79.2696046,
+    "stars_x": 2,
+    "review_count": 20,
+    "categories": "Restaurants, American (Traditional), Chicken Wings"
+  },
+  {
+    "name": "Kings Delight Caribbean Cuisine",
+    "address": "1658 Jane St",
+    "postal_code": "M9N 2S1",
+    "latitude": 43.7019167,
+    "longitude": -79.5035253,
+    "stars_x": 4.5,
+    "review_count": 9,
+    "categories": "Ethnic Food, Food, Fish & Chips, Restaurants, Specialty Food, Barbeque, Caribbean"
+  },
+  {
+    "name": "Chunky Chicken",
+    "address": "128-45 Overlea Boulevard",
+    "postal_code": "M4H 1C3",
+    "latitude": 43.7102476,
+    "longitude": -79.33533050000001,
+    "stars_x": 4,
+    "review_count": 4,
+    "categories": "Fast Food, Restaurants, Chicken Wings, Halal, Burgers, Pizza"
+  },
+  {
+    "name": "Modus Ristorante",
+    "address": "145 King Street W",
+    "postal_code": "M5H 4G2",
+    "latitude": 43.647468599999996,
+    "longitude": -79.3839517,
+    "stars_x": 3.5,
+    "review_count": 20,
+    "categories": "Restaurants, Italian"
+  },
+  {
+    "name": "Subway",
+    "address": "727 Queen Street E",
+    "postal_code": "M4M 1H1",
+    "latitude": 43.6590216,
+    "longitude": -79.3491051,
+    "stars_x": 2,
+    "review_count": 4,
+    "categories": "Delicatessen, Food, Fast Food, Sandwiches, Restaurants"
+  },
+  {
+    "name": "Odin",
+    "address": "514 King Street E, Unit 7",
+    "postal_code": "M5A 1M1",
+    "latitude": 43.6563809,
+    "longitude": -79.357038,
+    "stars_x": 3.5,
+    "review_count": 63,
+    "categories": "Cafes, Restaurants, Bars, Nightlife"
+  },
+  {
+    "name": "Malado Sushi",
+    "address": "2437 Finch Avenue W",
+    "postal_code": "M9M 2E7",
+    "latitude": 43.7498162,
+    "longitude": -79.5493678,
+    "stars_x": 4,
+    "review_count": 34,
+    "categories": "Restaurants, Sushi Bars, Korean, Japanese"
+  },
+  {
+    "name": "Mercat del Carmen",
+    "address": "920 Queen Street W",
+    "postal_code": "M6J 1G6",
+    "latitude": 43.6449495,
+    "longitude": -79.41575350000001,
+    "stars_x": 3.5,
+    "review_count": 6,
+    "categories": "Spanish, International Grocery, Ethnic Grocery, Food, Restaurants, Thai, Desserts"
+  },
+  {
+    "name": "Nanashake",
+    "address": "4750 Yonge Street, Unit 134",
+    "postal_code": "M2N 0J6",
+    "latitude": 43.760058175,
+    "longitude": -79.412188931,
+    "stars_x": 3.5,
+    "review_count": 51,
+    "categories": "Food, Restaurants, Vegetarian, Ice Cream & Frozen Yogurt, Vegan"
+  },
+  {
+    "name": "I'll Be Seeing You",
+    "address": "747 Queen Street E",
+    "postal_code": "M4M 1H3",
+    "latitude": 43.65899279999999,
+    "longitude": -79.3480738,
+    "stars_x": 5,
+    "review_count": 35,
+    "categories": "Bars, Wine Bars, Comfort Food, Cocktail Bars, Restaurants, Nightlife"
+  },
+  {
+    "name": "Lebanon Express",
+    "address": "439 Yonge Street",
+    "postal_code": "M5B 1T3",
+    "latitude": 43.6610723,
+    "longitude": -79.38275909999999,
+    "stars_x": 3.5,
+    "review_count": 59,
+    "categories": "Restaurants, Middle Eastern, Food"
+  },
+  {
+    "name": "Bob's Bulgogi",
+    "address": "105 Victoria Street",
+    "postal_code": "M5C 3B4",
+    "latitude": 43.652139,
+    "longitude": -79.377507,
+    "stars_x": 4,
+    "review_count": 72,
+    "categories": "Korean, Restaurants"
+  },
+  {
+    "name": "Potman Hotpot",
+    "address": "633 Silver Star Boulverd, Unit 110-111",
+    "postal_code": "M1V 5N1",
+    "latitude": 43.82195170000001,
+    "longitude": -79.2984027,
+    "stars_x": 4,
+    "review_count": 44,
+    "categories": "Hot Pot, Restaurants"
+  },
+  {
+    "name": "Huh Ga Ne",
+    "address": "19 Finch Avenue W, Unit A",
+    "postal_code": "M2N 7K4",
+    "latitude": 43.779169399999994,
+    "longitude": -79.4172467,
+    "stars_x": 3.5,
+    "review_count": 98,
+    "categories": "Restaurants, Korean"
+  },
+  {
+    "name": "La Limonada",
+    "address": "Toronto Spiritualist Temple, 706 College Street",
+    "postal_code": "M6G 1C1",
+    "latitude": 43.6554002,
+    "longitude": -79.4181865,
+    "stars_x": 5,
+    "review_count": 10,
+    "categories": "Food Stands, Restaurants, Food, Juice Bars & Smoothies"
+  },
+  {
+    "name": "Sing Sing Barbeque House",
+    "address": "351 Av Broadview",
+    "postal_code": "M4M 2H1",
+    "latitude": 43.6651176,
+    "longitude": -79.35226829999999,
+    "stars_x": 3.5,
+    "review_count": 3,
+    "categories": "Restaurants, Barbeque"
+  },
+  {
+    "name": "Playa Cabana - Hacienda",
+    "address": "14 Dupont Street",
+    "postal_code": "M5R 1V3",
+    "latitude": 43.6770684,
+    "longitude": -79.3981842,
+    "stars_x": 3.5,
+    "review_count": 128,
+    "categories": "Restaurants, Mexican"
+  },
+  {
+    "name": "King's Diner",
+    "address": "906 Kingston Road",
+    "postal_code": "M4E 1S5",
+    "latitude": 43.6805101,
+    "longitude": -79.2895166,
+    "stars_x": 3.5,
+    "review_count": 30,
+    "categories": "Restaurants, Breakfast & Brunch, Diners"
+  },
+  {
+    "name": "Chat Bar",
+    "address": "633 Silver Star Boulevard",
+    "postal_code": "M1V 5N1",
+    "latitude": 43.822058,
+    "longitude": -79.298592,
+    "stars_x": 3.5,
+    "review_count": 52,
+    "categories": "Restaurants, Barbeque, Tapas Bars, Chinese"
+  },
+  {
+    "name": "Lick's Homeburgers & Ice Cream",
+    "address": "900 Warden Avenue",
+    "postal_code": "M1L 4W6",
+    "latitude": 43.7294443,
+    "longitude": -79.288563,
+    "stars_x": 2,
+    "review_count": 15,
+    "categories": "Ice Cream & Frozen Yogurt, Burgers, Restaurants, Food"
+  },
+  {
+    "name": "Matahari Grill",
+    "address": "39 Baldwin St",
+    "postal_code": "M5T 1L1",
+    "latitude": 43.655888399999995,
+    "longitude": -79.39358879999999,
+    "stars_x": 3,
+    "review_count": 68,
+    "categories": "Malaysian, Restaurants"
+  },
+  {
+    "name": "Luckee",
+    "address": "328 Wellington Street W",
+    "postal_code": "M5V 3T4",
+    "latitude": 43.6446974,
+    "longitude": -79.39239509999999,
+    "stars_x": 3.5,
+    "review_count": 186,
+    "categories": "Breakfast & Brunch, Chinese, Dim Sum, Restaurants"
+  },
+  {
+    "name": "Starbucks",
+    "address": "205 Humber College Boulevard",
+    "postal_code": "M9W 5L7",
+    "latitude": 43.728645799999995,
+    "longitude": -79.6082722,
+    "stars_x": 2.5,
+    "review_count": 5,
+    "categories": "Food, Bakeries, Coffee & Tea"
+  },
+  {
+    "name": "Campechano Taquería",
+    "address": "504 Adelaide Street W",
+    "postal_code": "M5V 1T4",
+    "latitude": 43.6458109,
+    "longitude": -79.4007718,
+    "stars_x": 4,
+    "review_count": 134,
+    "categories": "Mexican, Restaurants"
+  },
+  {
+    "name": "Pita Land",
+    "address": "1841 Finch Ave W",
+    "postal_code": "M3N 2V2",
+    "latitude": 43.7571675,
+    "longitude": -79.514186,
+    "stars_x": 2,
+    "review_count": 4,
+    "categories": "Sandwiches, Restaurants, Halal, Middle Eastern"
+  },
+  {
+    "name": "Beerbistro",
+    "address": "18 King Street E",
+    "postal_code": "M5C 1C4",
+    "latitude": 43.649817,
+    "longitude": -79.377147,
+    "stars_x": 4,
+    "review_count": 596,
+    "categories": "Restaurants, Bistros, Bars, Beer Bar, Pubs, Nightlife, American (New), Canadian (New)"
+  },
+  {
+    "name": "Roti Time",
+    "address": "2542 St Clair Ave West",
+    "postal_code": "M6N 1L7",
+    "latitude": 43.6682846,
+    "longitude": -79.487228,
+    "stars_x": 3.5,
+    "review_count": 55,
+    "categories": "Indian, Restaurants"
+  },
+  {
+    "name": "Super Zamani",
+    "address": "6120 Yonge St",
+    "postal_code": "M2M 3W8",
+    "latitude": 43.791587400000004,
+    "longitude": -79.4188972,
+    "stars_x": 2.5,
+    "review_count": 3,
+    "categories": "Restaurants, Grocery, Halal, Food, Persian/Iranian"
+  },
+  {
+    "name": "Teappuccino",
+    "address": "130 St George Street",
+    "postal_code": "M5S 1A5",
+    "latitude": 43.6644223,
+    "longitude": -79.39933590000001,
+    "stars_x": 5,
+    "review_count": 7,
+    "categories": "Bubble Tea, Tea Rooms, Coffee & Tea, Food, Food Trucks, Restaurants, Cafes"
+  },
+  {
+    "name": "Pho Phuong",
+    "address": "1603 Dundas Street W",
+    "postal_code": "M6K 1T9",
+    "latitude": 43.649674299999994,
+    "longitude": -79.4351157,
+    "stars_x": 3.5,
+    "review_count": 55,
+    "categories": "Asian Fusion, Restaurants, Vietnamese"
+  },
+  {
+    "name": "Martin's Bakery",
+    "address": "2761 Markham Road",
+    "postal_code": "M1B 1V4",
+    "latitude": 43.820515612600005,
+    "longitude": -79.24589841689999,
+    "stars_x": 4,
+    "review_count": 7,
+    "categories": "Specialty Food, Food, Bakeries"
+  },
+  {
+    "name": "McDonald's",
+    "address": "3030 Don Mills Road E",
+    "postal_code": "M2J 3C1",
+    "latitude": 43.785354096199995,
+    "longitude": -79.3512418086,
+    "stars_x": 3,
+    "review_count": 5,
+    "categories": "Fast Food, Restaurants, Burgers"
+  },
+  {
+    "name": "Little Piggy's",
+    "address": "469 Bloor Street W",
+    "postal_code": "M5S 1X9",
+    "latitude": 43.6659576268,
+    "longitude": -79.4067151693,
+    "stars_x": 4,
+    "review_count": 132,
+    "categories": "Korean, Barbeque, Restaurants"
+  },
+  {
+    "name": "John & Sons Oyster House",
+    "address": "56 Temperance Street",
+    "postal_code": "M5H",
+    "latitude": 43.6504156,
+    "longitude": -79.3817483,
+    "stars_x": 4,
+    "review_count": 86,
+    "categories": "Seafood, Restaurants"
+  },
+  {
+    "name": "Poutini's House of Poutine",
+    "address": "617 King Street W",
+    "postal_code": "M5V 1M5",
+    "latitude": 43.6441190136,
+    "longitude": -79.4009630755,
+    "stars_x": 4,
+    "review_count": 69,
+    "categories": "Poutineries, Restaurants"
+  },
+  {
+    "name": "Starbucks",
+    "address": "30 Carlton Street",
+    "postal_code": "M5B 2A1",
+    "latitude": 43.661712895600004,
+    "longitude": -79.38110399989999,
+    "stars_x": 3.5,
+    "review_count": 10,
+    "categories": "Cafes, Food, Coffee & Tea, Restaurants"
+  },
+  {
+    "name": "The Keg Steakhouse + Bar - York Street",
+    "address": "165 York Street",
+    "postal_code": "M5H 3R8",
+    "latitude": 43.6499945,
+    "longitude": -79.3839517,
+    "stars_x": 4,
+    "review_count": 229,
+    "categories": "Restaurants, Steakhouses, Nightlife, Seafood, Bars"
+  },
+  {
+    "name": "Fieramosca",
+    "address": "36A Prince Arthur Avenue",
+    "postal_code": "M5R 1A9",
+    "latitude": 43.6695529,
+    "longitude": -79.397355,
+    "stars_x": 4.5,
+    "review_count": 84,
+    "categories": "Italian, Restaurants"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "733 Kipling Avenue",
+    "postal_code": "M8Z 5G5",
+    "latitude": 43.6264469678,
+    "longitude": -79.5287147393,
+    "stars_x": 2.5,
+    "review_count": 3,
+    "categories": "Restaurants, Cafes"
+  },
+  {
+    "name": "Rob's No Frills",
+    "address": "345 Bloor Street E, Unit 1A",
+    "postal_code": "M4W 3J6",
+    "latitude": 43.6718021,
+    "longitude": -79.3787064,
+    "stars_x": 3.5,
+    "review_count": 19,
+    "categories": "Seafood Markets, Food, Specialty Food, Bakeries, Grocery"
+  },
+  {
+    "name": "Lahori Tarka",
+    "address": "846 Markham Road",
+    "postal_code": "M1H 2Y2",
+    "latitude": 43.7675222,
+    "longitude": -79.2289379,
+    "stars_x": 4,
+    "review_count": 3,
+    "categories": "Vegetarian, Restaurants, Pakistani, Halal"
+  },
+  {
+    "name": "Switch",
+    "address": "55 Colborne Street",
+    "postal_code": "M5E 1C6",
+    "latitude": 43.6490711,
+    "longitude": -79.3746787,
+    "stars_x": 2,
+    "review_count": 3,
+    "categories": "Restaurants, Dance Clubs, Canadian (New), Nightlife"
+  },
+  {
+    "name": "Aroma Espresso Bar",
+    "address": "535 Queen Street W",
+    "postal_code": "M5V 2B4",
+    "latitude": 43.647930200000005,
+    "longitude": -79.3994438,
+    "stars_x": 3,
+    "review_count": 36,
+    "categories": "Restaurants, Cafes"
+  },
+  {
+    "name": "Thai Bright",
+    "address": "109 McCaul Street",
+    "postal_code": "M5T 3K5",
+    "latitude": 43.654110935,
+    "longitude": -79.39114509640001,
+    "stars_x": 3.5,
+    "review_count": 12,
+    "categories": "Restaurants, Thai"
+  },
+  {
+    "name": "Soulas Modern Greek Cuisine",
+    "address": "500 A Danforth Avenue",
+    "postal_code": "M4K 1P6",
+    "latitude": 43.6782533847,
+    "longitude": -79.3488195911,
+    "stars_x": 4.5,
+    "review_count": 3,
+    "categories": "Greek, Restaurants"
+  },
+  {
+    "name": "Pippins Tea Company",
+    "address": "2098 Queen Street E",
+    "postal_code": "M4E 1E1",
+    "latitude": 43.6710563,
+    "longitude": -79.29600040000001,
+    "stars_x": 4,
+    "review_count": 4,
+    "categories": "Food"
+  },
+  {
+    "name": "Grace O'Malley's",
+    "address": "14 Duncan Street",
+    "postal_code": "M5H 3G8",
+    "latitude": 43.6476863,
+    "longitude": -79.38858540000001,
+    "stars_x": 2.5,
+    "review_count": 96,
+    "categories": "Bars, Nightlife, Dance Clubs, Pubs, American (Traditional), Restaurants"
+  },
+  {
+    "name": "Avenue Diner",
+    "address": "222 Davenport Rd",
+    "postal_code": "M5R 1J6",
+    "latitude": 43.6747594,
+    "longitude": -79.3969119,
+    "stars_x": 3,
+    "review_count": 19,
+    "categories": "Restaurants, Diners"
+  },
+  {
+    "name": "Bricco Wine Bar",
+    "address": "3047 Dundas Street W",
+    "postal_code": "M6P",
+    "latitude": 43.6654047,
+    "longitude": -79.47101440000002,
+    "stars_x": 3.5,
+    "review_count": 48,
+    "categories": "Wine Bars, Nightlife, Bars, Italian, Restaurants"
+  },
+  {
+    "name": "Burger King",
+    "address": "1607 Birchmount Road",
+    "postal_code": "M1P 2J3",
+    "latitude": 43.7638012,
+    "longitude": -79.29122679999999,
+    "stars_x": 3,
+    "review_count": 4,
+    "categories": "Fast Food, Burgers, Restaurants"
+  },
+  {
+    "name": "Golden Wheat Bakery & Pastry",
+    "address": "652 College Street",
+    "postal_code": "M6G 1B8",
+    "latitude": 43.655156,
+    "longitude": -79.4162408,
+    "stars_x": 3.5,
+    "review_count": 30,
+    "categories": "Desserts, Food, Patisserie/Cake Shop, Bakeries"
+  },
+  {
+    "name": "McDonald's",
+    "address": "121 Front Street E",
+    "postal_code": "M5A 4P7",
+    "latitude": 43.649467200000004,
+    "longitude": -79.3704014,
+    "stars_x": 1.5,
+    "review_count": 10,
+    "categories": "Burgers, Restaurants, Fast Food"
+  },
+  {
+    "name": "Music Garden Cafe",
+    "address": "466 Queens Quay W",
+    "postal_code": "M5V 3Y2",
+    "latitude": 43.637664799999996,
+    "longitude": -79.3931067,
+    "stars_x": 4,
+    "review_count": 33,
+    "categories": "Coffee & Tea, Food, Cafes, Restaurants, Desserts"
+  },
+  {
+    "name": "City Fried Chicken and Pizza",
+    "address": "990 Danforth Avenue",
+    "postal_code": "M4J 1L9",
+    "latitude": 43.68048889999999,
+    "longitude": -79.3375786,
+    "stars_x": 4,
+    "review_count": 15,
+    "categories": "Restaurants, Fast Food, Pizza"
+  },
+  {
+    "name": "Fred's Not Here",
+    "address": "321 King St W",
+    "postal_code": "M5V 1J5",
+    "latitude": 43.646116299999996,
+    "longitude": -79.39079670000001,
+    "stars_x": 3,
+    "review_count": 182,
+    "categories": "Ame...\nCollapse\n This snippet was truncated for display; see it in full"
+  }
+]
