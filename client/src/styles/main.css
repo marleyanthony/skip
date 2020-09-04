@@ -37,7 +37,12 @@ body {
 }
 
 .nav__logo {
-  margin-right: 8rem;
+  margin-right: 6rem;
+}
+
+.nav__logo-img {
+  height: 1.5rem;
+  margin-left: 0.5rem;
 }
 
 .footer {
@@ -55,6 +60,19 @@ body {
   padding: 5px 0;
   font-size: 18px;
   line-height: 22px;
+}
+
+.footer__logo-container {
+  padding-top: 90px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .hero {
@@ -82,8 +100,24 @@ body {
   height: 3rem;
 }
 
+.hero__img-wrapper {
+  position: relative;
+}
+
 .hero__img {
   width: 100%;
+}
+
+.hero__top-circle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.hero__bottom-circle {
+  position: absolute;
+  bottom: 0;
+  right: -30px;
 }
 
 /* Universal Styling */

@@ -16,7 +16,15 @@ function Hero() {
           <button className="hero__hero-cta-btn btn mx-auto">Get Started</button>
         </div>
       </section>
-      <img src={heroImg} alt="courier" className="hero__img" />
+      <div className="hero__img-wrapper">
+        <svg className="hero__top-circle">
+          <circle cx="40" cy="40" r="40" stroke-width="3" fill="#4C956C" />
+        </svg>
+        <img src={heroImg} alt="courier" className="hero__img" />
+        <svg height="100" width="100" className="hero__bottom-circle">
+          <circle cx="50" cy="50" r="40" stroke-width="3" fill="#4C956C" />
+        </svg>
+      </div>
     </>
   )
 }
