@@ -1,4 +1,8 @@
-import React from 'react'
+import React from 'react';
+import calendar from '../assets/icons/calendar.png';
+import recycle from '../assets/icons/recycle.svg';
+import loyalty from '../assets/icons/loyalty.svg';
+import maps from '../assets/imgs/google-maps.png'
 
 function WhoWeAre() {
   return (
@@ -18,7 +22,7 @@ function WhoWeAre() {
             <p className="who-we-are__step-1-content">
               Use our bins to store all food-delivery waste.
             </p>
-            <img src="" alt="" className="who-we-are__step-1-img" />
+            <img src={recycle} alt="recycle" className="who-we-are__step-img" />
           </div>
 
           <div className="who-we-are__step-2">
@@ -26,7 +30,7 @@ function WhoWeAre() {
             <p className="who-we-are__step-2-content">
               Schedule your pickup.
             </p>
-            <img src="" alt="" className="who-we-are__step-1-img" />
+            <img src={calendar} alt="calendar" className="who-we-are__step-img" />
           </div>
 
           <div className="who-we-are__step-3">
@@ -34,7 +38,7 @@ function WhoWeAre() {
             <p className="who-we-are__step-3-content">
               Based on your location, the waste will be picked up and dropped off in one of our centralized pick-up waste station.
             </p>
-            <img src="" alt="" className="who-we-are__step-1-img" />
+            <img src={maps} alt="maps" className="who-we-are__step-map" />
           </div>
 
           <div className="who-we-are__step-4">
@@ -42,7 +46,7 @@ function WhoWeAre() {
             <p className="who-we-are__step-4-content">
               Collect points with our loyalty program!
             </p>
-            <img src="" alt="" className="who-we-are__step-1-img" />
+            <img src={loyalty} alt="loyalty" className="who-we-are__step-img" />
           </div>
 
           <div className="who-we-are__btn-wrapper">
