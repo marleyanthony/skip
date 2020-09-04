@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from './Hero';
 import WhoWeAre from './WhoWeAre';
 import Partners from './Partners';
-import GetStarted from './GetStarted';
+import Footer from './Footer';
 
 function MainMenu() {
   return (
@@ -10,7 +10,7 @@ function MainMenu() {
       <Hero />
       <WhoWeAre />
       <Partners />
-      <GetStarted />
+      <Footer />
     </>
   )
 }

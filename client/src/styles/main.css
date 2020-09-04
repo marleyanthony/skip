@@ -1,1 +1,101 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.hero__hero-cta-btn, .who-we-are__get-started-btn {
+  background: #4C956C;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 30px;
+  width: 266px;
+  height: 48.9px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: #fff;
+  -webkit-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+          filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.nav {
+  background: #4C956C;
+}
+
+.nav__toggler-icon {
+  color: white;
+}
+
+.hero {
+  padding: 3rem 1.875rem;
+}
+
+.hero__hero-text {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 52px;
+  padding: 0 3rem 0 0;
+  margin-bottom: 1rem;
+  color: #4C956C;
+}
+
+.hero__hero-sub-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 2.5rem;
+}
+
+.hero__cta-btn-wrapper {
+  position: relative;
+  height: 3rem;
+}
+
+.hero__img {
+  width: 100%;
+}
+
+.who-we-are {
+  padding: 2rem 1rem;
+}
+
+.who-we-are__header, .who-we-are__steps-header {
+  color: #4C956C;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+}
+
+.who-we-are__steps {
+  text-align: center;
+}
+
+.who-we-are__steps-header {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.who-we-are__slogan {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 3.125rem;
+}
+
+.who-we-are__step-1-header, .who-we-are__step-2-header, .who-we-are__step-3-header, .who-we-are__step-4-header {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.who-we-are__step-1, .who-we-are__step-2, .who-we-are__step-3 {
+  padding: 0 2rem;
+}
+
+.who-we-are__btn-wrapper {
+  position: relative;
+}
+/*# sourceMappingURL=main.css.map */
