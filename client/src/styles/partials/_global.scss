@@ -1,0 +1,13 @@
+@import './partials//variables';
+@import './partials/extends';
+@import './partials/header';
+@import './partials/footer';
+@import './partials/hero';
+@import './partials/partners';
+
+/* Universal Styling */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

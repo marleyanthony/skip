@@ -12,7 +12,7 @@ app.use(express.json());
 //allows the use of static files inside the server's 'public' folder
 app.use(express.static('public'));
 
-//mounts the router requests on to the path /listings
+//mounts the router requests on to the path /restaurants
 app.use('/restaurants', restaurantRoutes);
 
 const PORT = process.env.PORT;

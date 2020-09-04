@@ -1,0 +1,17 @@
+.footer {
+    height: 396px;
+    background: #4C956C;
+    padding: 65px 32px 72px;
+
+    &__list {
+        list-style: none;
+        color: #FFFFFF;
+    }
+
+    &__list-item {
+        padding: 5px 0;
+        font-size: 18px;
+        line-height: 22px;
+        
+    }
+}
