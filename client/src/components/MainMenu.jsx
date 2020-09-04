@@ -1,13 +1,18 @@
 import React from 'react';
+import Hero from './Hero';
+import WhoWeAre from './WhoWeAre';
+import Partners from './Partners';
+import GetStarted from './GetStarted';
 
-function Dropoff() {
+function MainMenu() {
   return (
     <>
-      <h1>Main Menu Page</h1>
-      <button className="btn btn-primary">Hello World!</button>
-
+      <Hero />
+      <WhoWeAre />
+      <Partners />
+      <GetStarted />
     </>
   )
 }
 
-export default Dropoff
+export default MainMenu

@@ -9,7 +9,7 @@ class App extends React.Component {
     return (
       <Switch>
         <Route
-          path="/"
+          path="/main"
           render={(renderProps) => {
             return (
               <MainMenu {...renderProps} />

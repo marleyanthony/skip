@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Order() {
+function Restaurants() {
   return (
     <>
       <h1>Restaurants Page</h1>
@@ -8,4 +8,4 @@ function Order() {
   )
 }
 
-export default Order
+export default Restaurants
