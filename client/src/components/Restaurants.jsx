@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 function Order() {
   return (
     <>
-      <h1>Order Page</h1>
+      <h1>Restaurants Page</h1>
     </>
   )
 }

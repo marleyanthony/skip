@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
-import Order from './components/Order';
-import Dropoff from './components/Dropoff';
+import MainMenu from './components/MainMenu';
+import Restaurants from './components/Restaurants';
 
 class App extends React.Component {
   render() {
@@ -12,17 +12,17 @@ class App extends React.Component {
           path="/"
           render={(renderProps) => {
             return (
-              <Order {...renderProps} />
+              <MainMenu {...renderProps} />
             );
           }}
           exact
         />
 
         <Route
-          path="/dropoff"
+          path="/restaurants"
           render={(renderProps) => {
             return (
-              <Dropoff {...renderProps} />
+              <Restaurants {...renderProps} />
             );
           }}
           exact
