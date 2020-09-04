@@ -1,5 +1,5 @@
 .who-we-are {
-  padding: 2rem 1rem;
+  padding: 2rem 1rem 0;
 
   &__header,
   &__steps-header {
@@ -39,13 +39,25 @@
   &__step-2,
   &__step-3 {
     padding: 0 2rem;
+    margin-bottom: 2.625rem;
+  }
+
+  &__step-img {
+    height: 119px;
+    width: 119px;
+  }
+
+  &__step-map {
+    height: 12rem;
   }
 
   &__btn-wrapper {
     position: relative;
+    height: 8rem;
   }
 
   &__get-started-btn {
+    margin-top: 2rem;
     @extend %cta-btn;
   }
 }
