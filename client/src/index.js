@@ -7,6 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
+import './styles/main.css';
+
 ReactDOM.render(
   <React.StrictMode>
     <Router>
