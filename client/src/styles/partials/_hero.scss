@@ -1,0 +1,32 @@
+.hero {
+  padding: 3rem 1.875rem; 
+
+  &__hero-text {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 52px;
+    padding: 0 3rem 0 0;
+    margin-bottom: 1rem;
+    color: $primary-colour;
+  }
+
+  &__hero-sub-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 2.5rem;
+  }
+
+  &__cta-btn-wrapper {
+    position: relative;
+    height: 3rem;
+  }
+
+  &__hero-cta-btn {
+    @extend %cta-btn;
+  }
+
+  &__img {
+    width: 100%;
+  }
+}

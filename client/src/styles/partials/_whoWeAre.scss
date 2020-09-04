@@ -1,0 +1,51 @@
+.who-we-are {
+  padding: 2rem 1rem;
+
+  &__header,
+  &__steps-header {
+    color: $primary-colour;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 43px;
+  }
+
+  &__steps {
+    text-align: center;
+  }
+
+  &__steps-header {
+    margin-bottom: 2rem;
+    text-align: left;
+  }
+
+  &__slogan {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 3.125rem;
+  }
+
+  &__step-1-header,
+  &__step-2-header,
+  &__step-3-header,
+  &__step-4-header {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  &__step-1,
+  &__step-2,
+  &__step-3 {
+    padding: 0 2rem;
+  }
+
+  &__btn-wrapper {
+    position: relative;
+  }
+
+  &__get-started-btn {
+    @extend %cta-btn;
+  }
+}

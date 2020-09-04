@@ -3,9 +3,9 @@ import React from 'react'
 function Header() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+      <nav class="nav navbar navbar-expand-lg navbar-dark">
+        <button class="nav__toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="nav__toggler-icon navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="#">GoGetters</a>
         <div class="collapse navbar-collapse" id="navbarNav">

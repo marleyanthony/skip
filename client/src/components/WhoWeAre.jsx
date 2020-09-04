@@ -7,11 +7,12 @@ function WhoWeAre() {
         <div className="who-we-are__header-wrapper">
           <h2 className="who-we-are__header">Who We Are</h2>
           <p className="who-we-are__slogan">
-            A sustainable solution for your food delivery needs.
+            Go Getters is an individual company where we provide services with a sustainable and feasible solution to help businesses and customers gather waste for proper recycling.
           </p>
         </div>
 
         <div className="who-we-are__steps">
+          <h3 className="who-we-are__steps-header">Our Process</h3>
           <div className="who-we-are__step-1">
             <h5 className="who-we-are__step-1-header">Step 1:</h5>
             <p className="who-we-are__step-1-content">
@@ -39,12 +40,14 @@ function WhoWeAre() {
           <div className="who-we-are__step-4">
             <h5 className="who-we-are__step-4-header">Step 4:</h5>
             <p className="who-we-are__step-4-content">
-              Collect points with our loyalty program every time you check off the sustainability option with your food delivery service provider!
+              Collect points with our loyalty program!
             </p>
             <img src="" alt="" className="who-we-are__step-1-img" />
           </div>
 
-          <button className="who-we-are__get-started-btn btn btn-primary">Get Started</button>
+          <div className="who-we-are__btn-wrapper">
+            <button className="who-we-are__get-started-btn btn">Get Started</button>
+          </div>
         </div>
       </section>
     </>
